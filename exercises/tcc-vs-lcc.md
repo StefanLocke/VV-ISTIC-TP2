@@ -16,7 +16,6 @@ For LCC = TCC :
         
             - the same set of attributes
             
-            - soit un même ensemble d'attributs
             
             - either a different set whose union with the attribute sets of the other methods is empty.
             
