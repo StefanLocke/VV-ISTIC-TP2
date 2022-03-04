@@ -4,3 +4,4 @@ Explain under which circumstances *Tight Class Cohesion* (TCC) and *Loose Class 
 
 ## Answer
 
+For TCC and LCC to produce the same value, no indirect connections have to be present in the lcc class, if the indirect connection count is 0, the rest of the formula is identical
