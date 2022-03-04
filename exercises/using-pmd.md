@@ -4,4 +4,6 @@ Pick a Java project from Github (see the [instructions](../sujet.md) for suggest
 
 ## Answer
 
+One true positive is the LooseCoupling, this clause asks developers to used interfaces to external libraries instead of hard coded dependencies such as ArrayList instead of list on list declaration.
+
 One problem not really worth solving is the UselessParentheses case. These parentheses are, usually, used for better code clarity for humans.
