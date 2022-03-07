@@ -65,5 +65,7 @@ and with :
 ```
 $PMDBIN/run.sh pmd -d . -f summaryhtml -R ~/VV/customruleset.xml > report.html
 ```
+in the commons/collections project, we have 82 violations of the rule.
+
 
 
